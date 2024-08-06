@@ -30,10 +30,38 @@ We fetch data from an API to provide you with the latest news articles. You can 
 - **Picasso**: For loading images.
 - **Navigation Component**: For managing in-app navigation.
 
-![DailyNews1](https://github.com/user-attachments/assets/d3661d5a-f48e-40b7-9d96-1cbf57c56993)
-![DailyNews2](https://github.com/user-attachments/assets/a76a5554-34c9-4ea2-b3b8-8781f1f9e931)
-![DailyNews3](https://github.com/user-attachments/assets/60027ee3-d98e-4318-9d9c-f3b1e94a1e19)
-![DailyNews4](https://github.com/user-attachments/assets/3e52db12-b46b-4c01-afc7-10d0abeed053)
-![DailyNews5](https://github.com/user-attachments/assets/00ca506b-b35f-4f23-b59d-d779e4889ad4)
-![DailyNews6](https://github.com/user-attachments/assets/a9a22905-a4e5-4cb1-97f8-8cbf946c9f54)
-![DailyNews7](https://github.com/user-attachments/assets/b02df2ef-72eb-4fe2-b79c-aebc7789a5d2)
+# ScreenShots
+
+1. Application logo
+![image](https://github.com/user-attachments/assets/68b082b2-2ac1-4866-ba1b-c06c959593ed)
+
+2. splash screen
+![image](https://github.com/user-attachments/assets/fc10ef95-15e1-4690-a92e-d43cef1c5ddf)
+
+3. HomePage
+![image](https://github.com/user-attachments/assets/3f588a1e-71de-4da1-8aa4-d013e340357e)
+
+4. Search for news
+![image](https://github.com/user-attachments/assets/b9e690c2-4824-4d4b-884a-10a59ce6fc3d)
+![image](https://github.com/user-attachments/assets/26a573d2-1252-485e-9270-7bb3fd3fcd2b)
+
+5. News Page
+![image](https://github.com/user-attachments/assets/522f029d-871b-4a60-996f-eba6d3e9718d)
+
+6. Read Full Article on website
+![image](https://github.com/user-attachments/assets/5bf63cd4-518f-4fc2-9758-ea83a51b1c37)
+
+7. Like Article
+![image](https://github.com/user-attachments/assets/9194b3c0-fb6a-4fb8-9335-d7cc7e41f9c1) 
+
+8. Favourite Page
+![image](https://github.com/user-attachments/assets/81980dbc-1ece-44b4-93b7-bcd9db50b20a)
+![image](https://github.com/user-attachments/assets/6f423b14-dc4c-4db9-98c4-d8003f1d666b)
+
+9. Share Article
+![image](https://github.com/user-attachments/assets/23f4dc1e-bfb3-48e9-a5d3-d256e0a9db3f)
+
+
+
+
+ 
