@@ -59,7 +59,8 @@ We fetch data from an API to provide you with the latest news articles. You can 
 ![image](https://github.com/user-attachments/assets/6f423b14-dc4c-4db9-98c4-d8003f1d666b)
 
 9. Share Article
-![image](https://github.com/user-attachments/assets/23f4dc1e-bfb3-48e9-a5d3-d256e0a9db3f)
+![image](https://github.com/user-attachments/assets/615a0bf1-ffaa-4e02-b9b0-950ffce44003)
+
 
 
 
